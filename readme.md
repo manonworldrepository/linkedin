@@ -110,3 +110,4 @@ Refer to the Native Build Tools documentation for more on toolchain support.
 - [ ]  Adjust the native build (e.g., optimize for size/speed, explore further GraalVM configurations, ensure all features work in native mode)
 - [ ]  Adjust Docker infrastructure (e.g., multi-stage builds for smaller production images, Docker Compose for local development with Redis)
 - [ ]  Adjust BDD tests (e.g., expand coverage for different job search scenarios, error handling, authentication flows)
+- [ ]  Fix the bug in the job search API to return results
