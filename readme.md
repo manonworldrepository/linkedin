@@ -90,7 +90,7 @@ Refer to the Native Build Tools documentation for more on toolchain support.
 *   Java 21
 *   Spring Boot (version inferred from context, e.g., 3.x)
     *   Spring WebFlux (Reactive Programming)
-    *   Spring Security (OAuth2 Client, OIDC)
+    *   Spring Security Reactive (OAuth2 Client, OIDC)
     *   Spring Data Redis Reactive (for Session Management)
     *   Spring Session Data Redis
 *   Project Reactor
